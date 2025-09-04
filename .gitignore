@@ -1,0 +1,16 @@
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# BIND cache and data
+data/
+dynamic/
+named.run
+named.stats
+named_dump.db
+
+# Binary files
+*.pyc
+__pycache__/
